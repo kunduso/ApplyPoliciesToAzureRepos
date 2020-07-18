@@ -9,7 +9,7 @@ A couple of weeks or so back, I had an interesting work land into my sprint that
     -	Check for build validation
 
 
- If you are interested in knowing more about it please visit my article on that [here](http://skundunotes.com/2020/07/16/protect-master-in-azure-repos-using-policies).
+ If you are interested in knowing more about it please visit my article on that [here](http://skundunotes.com/2020/07/17/protect-master-in-azure-repos-using-policies/).
 
 ## Prerequisites
 Install Azure CLI on the computer where this script will be run from [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
