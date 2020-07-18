@@ -41,7 +41,7 @@ AzureRepoPolicyApplication : ResetRepositoryPolicy/AppendRepositoryPolicy
 ## Usage
 -Open windows powershell as admin before you run the script
 <br />-Copy/download powershell file and execute below command
-<pre><code>.\ApplyPoliciesToAzureRepos.ps1 -AzureRepoPolicyApplication "ResetRepositoryPolicy" or "AppendRepositoryPolicy"-AzureDevopsPAT "$(AzureDevopsPAT)" -AzureDevopsOrgURL "$(AzureDevopsOrgURL)" -AzureDevopsTeamName "$(YourAzureDevopsTeamName)" -BranchName "$(BranchName)" -FolderPath "$(FolderPath)"</code></pre>
+<pre><code>.\ApplyPoliciesToAzureRepos.ps1 -AzureRepoPolicyApplication "ResetRepositoryPolicy" or "AppendRepositoryPolicy" -AzureDevopsPAT "$(AzureDevopsPAT)" -AzureDevopsOrgURL "$(AzureDevopsOrgURL)" -AzureDevopsTeamName "$(YourAzureDevopsTeamName)" -BranchName "$(BranchName)" -FolderPath "$(FolderPath)"</code></pre>
 
 ## Contribution/Feedback
 Please submit a pull request with as much details as possible
